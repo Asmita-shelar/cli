@@ -1,0 +1,45 @@
+body{
+font-family:latha;
+color:white;
+background:url(homeimg.png);
+}
+
+
+.box{width:900px;
+float:right;
+border:2px solid black;
+margin-right:50px 25px 25px;
+}
+
+.box ul li{width:120px;
+float:left;
+margin:10px auto;
+text-align:center;
+}
+
+.box ul li a{text-decoration:none;
+color:black;}
+
+.box ul li:hover{background-color:green;}
+.box ul li a:hover{color:white;}
+
+.wd
+{
+text-align:center;
+background-color:black;
+height:700px;
+width:400px;
+margin:50px 50px 50px;
+border:2px solid black;
+
+}
+.wd h1{color:beige;
+font-family:latha;}
+
+.wd p{color:pink;
+font-family:latha;
+}
+
+.slide{
+width: 500px;
+}
